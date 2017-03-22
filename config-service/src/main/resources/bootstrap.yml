@@ -11,7 +11,7 @@ spring:
 #    active: native  # For local file repository only
   cloud:
     config:
-      enabled: true
+      enabled: false
       server:
         git:
           uri: https://github.com/Oreste-Luci/netflix-oss-example-config-repo

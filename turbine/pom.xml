@@ -24,7 +24,7 @@
     <dependencies>
         <dependency>
             <groupId>org.springframework.cloud</groupId>
-            <artifactId>spring-cloud-starter-turbine-amqp</artifactId>
+            <artifactId>spring-cloud-starter-turbine-stream</artifactId>
             <version>${spring-cloud-starter-turbine-amqp.version}</version>
         </dependency>
         <dependency>
